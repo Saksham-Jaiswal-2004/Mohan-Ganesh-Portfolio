@@ -53,7 +53,7 @@ const page = () => {
         </div>
       </div>
 
-      <div className='z-10 fixed bottom-8 right-12'>
+      <div className='fixed bottom-8 right-12 z-[100]'>
         <Link href='/' className='button text-base p-3 rounded-full'>New Post</Link>
       </div>
     </div>
